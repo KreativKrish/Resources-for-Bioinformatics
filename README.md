@@ -28,7 +28,7 @@ Welcome to the Bioinformatics Resources repository! Here you will find a curated
 8. [Workshops - BIG Bioinformatics](https://bigbioinformatics.org/workshops)
    - Information about workshops conducted by BIG Bioinformatics, covering various topics in bioinformatics.
 
-9. The Biostar Handbook: 2nd Edition
+9. [The Biostar Handbook: 2nd Edition](https://www.biostarhandbook.com/)
    - A handbook or guide related to bioinformatics, however, the specific link is missing.
 
 10. [Coursera Specialization in Genomic Data Science](https://www.coursera.org/specializations/genomic-data-science)
@@ -51,5 +51,9 @@ Welcome to the Bioinformatics Resources repository! Here you will find a curated
 
 16. [Genomics Class Book](https://genomicsclass.github.io/book/)
     - A book or resource related to genomics, possibly associated with a class or course.
+   
+17. [Analysis of single cell RNA-seq data (singlecellcourse.org)](https://www.singlecellcourse.org/index.html)
+    - Resource for the analysis of single-cell RNA-seq data.
+
 
 Feel free to explore these resources and enhance your knowledge in the exciting field of bioinformatics! If you find any broken links or have suggestions for additional resources, please contribute to this repository. Happy learning! 🧬✨
