@@ -16,7 +16,7 @@ Welcome to the Bioinformatics Resources repository! Here you will find a curated
 4. [Bioinformatics Courses at ETH Zurich](https://ethz.ch/content/dam/ethz/special-interest/biol/department/Bioinformatics%20courses.pdf)
    - Provides information on bioinformatics courses offered at ETH Zurich, a renowned Swiss university.
 
-5. [Bioinformatics Starter Pack](Bioinformatics%20Starter%20Pack%20%28notion.site%29)
+5. [Bioinformatics Starter Pack](https://khushbupatel.notion.site/Bioinformatics-Starter-Pack-ae982892a9fb44569f735abc52ec9dd8)
    - A resource collection or guide aimed at individuals starting in bioinformatics.
 
 6. [Closed Projects - BRN (Bioinformatics Research Network)](https://www.bioresnet.org/projects/)
