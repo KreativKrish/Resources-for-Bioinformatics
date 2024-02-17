@@ -59,7 +59,10 @@ Welcome to the Bioinformatics Resources repository! Here you will find a curated
     - Schedule for BGGN213, a bioinformatics course at UCSD.
 
 19. [BGGN213 Syllabus - UCSD](https://bioboot.github.io/bggn213_F23/class-material/BGGN213_F23_syllabus.pdf)
-    - Syllabus for BGGN213, a bioinformatics course at UCSD.
+    - Syllabus for BGGN213, a bioinformatics course at UCSD
+20. [FigureOneLab Repository]( https://github.com/deanslee/FigureOneLab)
+    - Figure One Lab (F1L) is an initiative to help you build a computational biology (compbio) portfolio by re-enacting Figure 1 of biology papers
+
 
 
 Feel free to explore these resources and enhance your knowledge in the exciting field of bioinformatics! If you find any broken links or have suggestions for additional resources, please contribute to this repository. Happy learning! 🧬✨
