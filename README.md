@@ -62,7 +62,7 @@ Welcome to the Bioinformatics Resources repository! Here you will find a curated
     - Syllabus for BGGN213, a bioinformatics course at UCSD
 20. [FigureOneLab Repository]( https://github.com/deanslee/FigureOneLab)
     - Figure One Lab (F1L) is an initiative to help you build a computational biology (compbio) portfolio by re-enacting Figure 1 of biology papers
-
-
+21. [R for Data Science (2e)](https://r4ds.hadley.nz/)
+    - Best book to learn Data Science in R with hands-on practice. 
 
 Feel free to explore these resources and enhance your knowledge in the exciting field of bioinformatics! If you find any broken links or have suggestions for additional resources, please contribute to this repository. Happy learning! 🧬✨
